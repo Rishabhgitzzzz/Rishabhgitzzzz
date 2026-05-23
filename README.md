@@ -1,5 +1,95 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building MERN stack projects, including a ChatGPT clone, while strengthening my full-stack development skills.<br><br>👯 I’m looking to collaborate on<br>MERN stack projects, open-source contributions, and real-world applications.<br><br>🤝 I’m looking for help with<br>Internship and entry-level job opportunities, project reviews, and best practices in scalable backend systems.<br><br>🌱 I’m currently learning<br>MERN Stack and planning to learn CI/CD, Docker, Kubernetes, Kafka, TypeScript, AWS, and GenAI (basics)..<br><br>💬 Ask me about<br>JavaScript, MERN stack fundamentals, backend APIs, and building full-stack projects.<br><br>⚡ Fun fact<br>I learn best by building projects and breaking things until they work 🚀
+# Hi, I'm Rishabh Sahu 👋
+
+Backend-focused full-stack developer building production-ready MERN stack applications.
+I care about clean architecture, readable code, and systems that actually work.
+
+---
+
+## 🚀 What I'm working on
+
+- **Notebase** — A Second Brain platform to save and revisit YouTube & Twitter content.
+  Built with TypeScript, Express, JWT auth, and modular REST APIs.
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+Node.js · Express · TypeScript · REST APIs · JWT · MVC Architecture · Zod · bcrypt
+
+**Frontend**
+React · TypeScript · Tailwind CSS · Context API · Redux Toolkit
+
+**Database & Tools**
+MongoDB · Mongoose · Git · Docker · Postman · Vite
+
+**Deployment**
+Render · Vercel · Netlify · MongoDB Atlas
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 [Smart Leads Dashboard](https://lead-management-delta-silk.vercel.app)
+> React · TypeScript · Node.js · Express · MongoDB · JWT · Zod
+
+Full-stack lead management system built as an internship assignment.
+
+- JWT auth + role-based access control (Admin / Sales)
+- Advanced filtering, debounced search, backend pagination
+- CSV export, dark mode, Context API state management
+- MVC backend with centralized error handling and Zod validation
+- Deployed: Vercel (frontend) + Render (backend) + MongoDB Atlas
+
+[Frontend](https://github.com/Rishabhgitzzzz/Lead_Management/tree/main/frontend)
+·
+[Backend](https://github.com/Rishabhgitzzzz/Lead_Management/tree/main/backend)
+·
+[Live Demo](https://lead-management-delta-silk.vercel.app)
+
+---
+
+### 🔹 [Notebase](https://github.com/Rishabhgitzzzz/Notebase)
+> React · TypeScript · Node.js · Express · MongoDB · JWT
+
+Second Brain platform — save YouTube videos and Twitter/X links in one place.
+
+- JWT authentication and protected routes
+- User-specific content isolation
+- Modular REST APIs with middleware-based architecture
+- Built for future expansion: tagging, semantic search, AI retrieval
+
+---
+
+### 🔹 [StayNBnB](https://staynbnb.onrender.com/listings)
+> Node.js · Express · MongoDB · EJS
+
+Property rental platform — think Airbnb, built from scratch.
+
+- Full CRUD for listings and reviews
+- Owner-level authorization (only you can edit your listing)
+- Server-side rendering with EJS
+- Live on Render
+
+---
+
+## 📊 GitHub Stats
+
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabhgitzzzz&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhgitzzzz&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-sahu-989a07214)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishabhh27harsh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Project-000000?style=flat&logo=vercel&logoColor=white)](https://lead-management-delta-silk.vercel.app)
+
+---
+
+> *"I learn best by building things and breaking them until they work."*
 
 
 ## 🌐 Socials:
